@@ -1,0 +1,123 @@
+jazzy@jazmine-vb:~$ for i in {1..30}; do time ./IOResults; done
+
+real	0m6.359s
+user	0m2.211s
+sys	0m0.585s
+
+real	0m6.267s
+user	0m2.165s
+sys	0m0.550s
+
+real	0m6.088s
+user	0m2.154s
+sys	0m0.559s
+
+real	0m6.069s
+user	0m2.207s
+sys	0m0.514s
+
+real	0m6.040s
+user	0m2.143s
+sys	0m0.553s
+
+real	0m6.074s
+user	0m2.194s
+sys	0m0.513s
+
+real	0m6.070s
+user	0m2.201s
+sys	0m0.522s
+
+real	0m5.981s
+user	0m2.139s
+sys	0m0.559s
+
+real	0m6.236s
+user	0m2.209s
+sys	0m0.550s
+
+real	0m6.394s
+user	0m2.292s
+sys	0m0.540s
+
+real	0m6.502s
+user	0m2.268s
+sys	0m0.628s
+
+real	0m6.473s
+user	0m2.187s
+sys	0m0.699s
+
+real	0m6.542s
+user	0m2.319s
+sys	0m0.601s
+
+real	0m6.465s
+user	0m2.266s
+sys	0m0.612s
+
+real	0m6.517s
+user	0m2.304s
+sys	0m0.605s
+
+real	0m6.422s
+user	0m2.260s
+sys	0m0.609s
+
+real	0m6.358s
+user	0m2.263s
+sys	0m0.591s
+
+real	0m6.426s
+user	0m2.314s
+sys	0m0.582s
+
+real	0m6.469s
+user	0m2.268s
+sys	0m0.587s
+
+real	0m6.580s
+user	0m2.274s
+sys	0m0.638s
+
+real	0m6.496s
+user	0m2.190s
+sys	0m0.676s
+
+real	0m6.292s
+user	0m2.205s
+sys	0m0.632s
+
+real	0m6.352s
+user	0m2.234s
+sys	0m0.627s
+
+real	0m6.314s
+user	0m2.326s
+sys	0m0.525s
+
+real	0m6.480s
+user	0m2.263s
+sys	0m0.596s
+
+real	0m6.463s
+user	0m2.236s
+sys	0m0.659s
+
+real	0m6.394s
+user	0m2.338s
+sys	0m0.521s
+
+real	0m6.514s
+user	0m2.290s
+sys	0m0.577s
+
+real	0m6.388s
+user	0m2.294s
+sys	0m0.563s
+
+real	0m6.401s
+user	0m2.240s
+sys	0m0.637s
+jazzy@jazmine-vb:~$ 
+
